@@ -1,6 +1,8 @@
-SYSZX ESP32-S3 Software Manager
+SYSZX Software Manager
 
 This project is a simple MicroPython-based software loader for the ESP32-S3, using a 64x32 OLED display and a few buttons to download and run Python scripts directly on the device.
+
+Version: Beta
 
 Tested and working on:
 
