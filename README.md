@@ -5,5 +5,7 @@ This project is a simple MicroPython-based software loader for the ESP32-S3, usi
 Tested and working on:
 
 Firmware: ESP32_GENERIC_S3-FLASH_4M-20240602-v1.23.0.bin
+
 Flashed with: esptool
+
 Uploaded via: Thonny IDE
